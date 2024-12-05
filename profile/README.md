@@ -8,23 +8,15 @@ Flytrap is a developer-first tool that:
 
 - Captures frontend and backend errors across frameworks and languages.
 - Provides near real-time notifications via email and in-dashboard pop-ups.
-- Ensures privacy and compliance by keeping your error data within your infrastructure.
 - Is fully provisioned through Terraform on your own AWS account.
+- Ensures data ownership, privacy and compliance by keeping your error data within your infrastructure.
 
 With Flytrap, you own your data and control your infrastructure, giving you peace of mind while simplifying error tracking and resolution.
 
-## 🧩 Why Choose Flytrap?
-### 1. Focused Functionality
-Unlike bloated platforms, Flytrap focuses exclusively on error monitoring. This targeted approach reduces distractions, helping you quickly address issues without navigating unnecessary features.
+For more detailed insights, please refer to our [case study](#).
 
-### 2. Minimal Overhead
-Flytrap’s lightweight SDKs capture only the data you need for debugging, ensuring no performance trade-offs for your applications.
-
-### 3. Full Data Ownership
-Flytrap’s self-hosted architecture ensures your error data never leaves your infrastructure, aligning with privacy and compliance requirements while eliminating vendor lock-in.
-
-### 4. Streamlined Deployment
-Provision Flytrap in your AWS account using Terraform, with setup designed to be quick, reliable, and developer-friendly.
+## 🌟 Why Error Monitoring Matters
+Silent failures and unhandled errors can degrade user trust, reduce revenue, and hurt your brand’s reputation. Flytrap ensures no error goes unnoticed, equipping your team with the tools to deliver reliable, user-friendly applications.
 
 ## 🛠️ Key Features
 - **SDKs for Diverse Frameworks:** Flytrap supports React, Vanilla JavaScript, Express, and Flask, offering seamless integration with your tech stack.
@@ -37,4 +29,35 @@ Provision Flytrap in your AWS account using Terraform, with setup designed to be
 2. **Integrate the SDK:** Add Flytrap’s SDK to your applications to begin capturing errors.
 3. **Monitor and Resolve:** Use the Flytrap dashboard to track, prioritize, and fix errors with ease.
 
-For detailed setup instructions, visit our documentation (link to how to use page?).
+For detailed setup instructions, visit our [installation guide](#).
+
+## 🧑‍🤝‍🧑 Meet the Team
+Flytrap is built by a passionate team of engineers dedicated to simplifying error monitoring and empowering development teams. Our mission is to create tools that are lightweight, privacy-first, and developer-friendly.
+
+[Rebecca Biancofiore](https://github.com/fenris55) | Software Engineer | Chattanooga, TN  
+[Anthony Kovatch](https://github.com/Akovatch) | Software Engineer | Greater New York City Metropolitan Area  
+[Clarissa Roeder](https://github.com/clarissaroeder) | Software Engineer | Greater Munich Metropolitan Area, Germany  
+[Saul Thompson](https://github.com/saulthompson) | Software Engineer | Seattle, WA
+
+
+## 📊 About Flytrap’s Architecture and Technologies
+Flytrap’s architecture leverages modern technologies to ensure scalability, reliability, and efficiency:
+
+- **Backend:** Built with Python (Flask) for its lightweight and modular design.
+- **Frontend:** Powered by React for an intuitive and responsive user interface.
+- **Database:** PostgreSQL for structured error data and multi-user support.
+- **Near Real-Time Updates:** WebSockets and Amazon SNS provide instant developer notifications.
+- **Error Processing:** AWS Lambda ensures efficient, scalable error handling with source map integration for unminified stack traces.
+- **Infrastructure:** Docker for containerization and Terraform for automated self-hosted deployments on AWS.
+
+## 🔮 The Flytrap Roadmap
+Flytrap is constantly evolving to serve developers better. Planned features include:
+
+- **Version/Release Tracking:** Contextualize errors with specific deployments.
+- **Error Aggregation:** Identify patterns and group similar errors.
+- **CLI Tool:** Simplify infrastructure management with a Flytrap command-line interface.
+- **Breadcrumbs:** Provide contextual event logs for more efficient debugging.
+- **AI Integration:** Get intelligent recommendations for faster error resolution.
+
+
+*Flytrap: Streamlined Error Monitoring for Developers.*
