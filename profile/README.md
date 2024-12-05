@@ -13,7 +13,7 @@ Flytrap is a developer-first tool that:
 
 With Flytrap, you own your data and control your infrastructure, giving you peace of mind while simplifying error tracking and resolution.
 
-For more detailed insights, please refer to our [case study](#).
+For more detailed insights, please refer to our [case study](https://getflytrap.github.io/).
 
 ## 🌟 Why Error Monitoring Matters
 Silent failures and unhandled errors can degrade user trust, reduce revenue, and hurt your brand’s reputation. Flytrap ensures no error goes unnoticed, equipping your team with the tools to deliver reliable, user-friendly applications.
@@ -29,7 +29,7 @@ Silent failures and unhandled errors can degrade user trust, reduce revenue, and
 2. **Integrate the SDK:** Add Flytrap’s SDK to your applications to begin capturing errors.
 3. **Monitor and Resolve:** Use the Flytrap dashboard to track, prioritize, and fix errors with ease.
 
-For detailed setup instructions, visit our [installation guide](#).
+For detailed setup instructions, visit our [installation guide](https://github.com/getflytrap/flytrap_terraform).
 
 ## 🧑‍🤝‍🧑 Meet the Team
 Flytrap is built by a passionate team of engineers dedicated to simplifying error monitoring and empowering development teams. Our mission is to create tools that are lightweight, privacy-first, and developer-friendly.
@@ -61,3 +61,9 @@ Flytrap is constantly evolving to serve developers better. Planned features incl
 
 
 *Flytrap: Streamlined Error Monitoring for Developers.*
+
+---
+
+<div align="center">
+  🪰🪤🪲🌱🚦🛠️🪴
+</div>
