@@ -15,6 +15,8 @@ With Flytrap, you own your data and control your infrastructure, giving you peac
 
 For more detailed insights, please refer to our [case study](https://getflytrap.github.io/).
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 ## 🌟 Why Error Monitoring Matters
 Silent failures and unhandled errors can degrade user trust, reduce revenue, and hurt your brand’s reputation. Flytrap ensures no error goes unnoticed, equipping your team with the tools to deliver reliable, user-friendly applications.
 
@@ -35,7 +37,7 @@ For detailed setup instructions, visit our [installation guide](https://github.c
 Flytrap is built by a passionate team of engineers dedicated to simplifying error monitoring and empowering development teams. Our mission is to create tools that are lightweight, privacy-first, and developer-friendly.
 
 [Rebecca Biancofiore](https://github.com/fenris55) | Software Engineer | Chattanooga, TN  
-[Anthony Kovatch](https://github.com/Akovatch) | Software Engineer | Greater New York City Metropolitan Area  
+[Anthony Kovatch](https://github.com/Akovatch) | Software Engineer | New York, NY
 [Clarissa Roeder](https://github.com/clarissaroeder) | Software Engineer | Greater Munich Metropolitan Area, Germany  
 [Saul Thompson](https://github.com/saulthompson) | Software Engineer | Seattle, WA
 
@@ -58,6 +60,10 @@ Flytrap is constantly evolving to serve developers better. Planned features incl
 - **CLI Tool:** Simplify infrastructure management with a Flytrap command-line interface.
 - **Breadcrumbs:** Provide contextual event logs for more efficient debugging.
 - **AI Integration:** Get intelligent recommendations for faster error resolution.
+
+## 📄 Licensing
+
+All repositories within this organization are licensed under the [MIT License](https://opensource.org/licenses/MIT). Each project includes a `LICENSE` file in its root directory outlining the terms of use.
 
 
 *Flytrap: Streamlined Error Monitoring for Developers.*
